@@ -3,7 +3,7 @@ import { Button, FloatingLabel, Form, Modal } from 'react-bootstrap';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { addProjectAPI } from '../Service/allAPI';
-import { addProjectResponseContext } from '../ContextAPI/contextShare';
+import { addProjectResponseContext } from '../ContextAPI/ContextShare';
 
 
 function Addproject() {

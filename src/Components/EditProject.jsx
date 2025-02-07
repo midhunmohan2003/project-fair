@@ -4,7 +4,7 @@ import { server_url } from '../Service/server_url';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { editUserProjectAPI } from '../Service/allAPI';
-import { editProjectResponseContext } from '../ContextAPI/contextShare';
+import { editProjectResponseContext } from '../ContextAPI/ContextShare';
 
 
 function EditProject({project}) {

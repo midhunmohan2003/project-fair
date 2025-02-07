@@ -1,0 +1,1 @@
+export const server_url = 'https://pf-server-bfix.onrender.com'
